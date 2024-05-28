@@ -4,8 +4,8 @@ Custom widgets built using D2L API Calls, local authentication and javascript.  
 
 This version is has everything included, the HTML, css and javascript used to make this work.  Create a new widget in D2L, drop the code and add the widget to the ORG homepage. Make sure your Instructor role has the necessary permissions to create a course and add a user.
 
-![Create Course](https://github.com/justinbamberg/d2l-brightspace-custom-widgets/blob/main/create-course-widget-resized.png)
-
 ## JavaScript Version
 
 Just the code used to make the process work.  
+
+![Create Course](https://github.com/justinbamberg/d2l-brightspace-custom-widgets/blob/main/create-course-widget-resized.png)
