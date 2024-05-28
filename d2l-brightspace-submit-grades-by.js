@@ -1,5 +1,5 @@
 async function getCourses() {
-            const apiUrl = 'https://elearning.delta.edu/d2l/api/lp/1.42/enrollments/myenrollments/';
+            const apiUrl = 'org address/d2l/api/lp/1.42/enrollments/myenrollments/';
             const startDateTime = '2024-05-09T13:15:30.067Z';
             const endDateTime = '2024-12-30T13:15:30.067Z';
             const queryParams = new URLSearchParams({
