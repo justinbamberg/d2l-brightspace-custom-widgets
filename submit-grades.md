@@ -4,8 +4,12 @@ const startDateTime = '2024-05-09T13:15:30.067Z';
 const endDateTime = '2024-12-30T13:15:30.067Z'; 
 <br><br>
 This will need to be adjusted each semester.  I'm working on adjusting the code to grab another API call to render courses based on semester, but haven't been able to make that work.
-<br>
+
 This is designed to be a self-check off for the instructor.  Set the widget to be visible to Admins and Faculty.
+
+PREREQUISITE: You should have basic knowledge of D2L Brightspace Admin Tools and setting up Manage Extensibility --> OAuth 2.0 and registering an app and setting up scopes.  Refer to the D2L API documentation for more information. [Scopes Tables](https://docs.valence.desire2learn.com/http-scopestable.html)
+
+NOTE: Don't forget to set the permissions for the widget for Admin and Instructor use only.
 ## HTML version
 
 This version is has everything included, the HTML, css and javascript used to make this work.  Create a new widget in D2L, drop the code and add the widget to the ORG homepage. Make sure your Instructor role has the necessary permissions to create a course and add a user.
