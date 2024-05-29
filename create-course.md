@@ -1,7 +1,9 @@
 # D2L Brightspace Create Course
 Custom widget built using D2L API Calls, local authentication and javascript.  This widget goes one step beyond the course create widget that D2L has.  First, the widget creates a new course shell, enrolls the user (Instructor) and then creates a ZZStudent with "Student View" role which allows the instructor to impersonate the user to participate in activities as a full student.  
 
-Don't forget to set the permissions for the widget for Admin and Instructor use only.  
+PREREQUISITE: You should have basic knowledge of D2L Brightspace Admin Tools and setting up Manage Extensibility --> OAuth 2.0 and registering an app and setting up scopes.  Refer to the D2L API documentation for more information. [Scopes Tables](https://docs.valence.desire2learn.com/http-scopestable.html)
+
+NOTE: Don't forget to set the permissions for the widget for Admin and Instructor use only.
 
 ## HTML version
 
