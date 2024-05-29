@@ -10,6 +10,11 @@ This version is has everything included, the HTML, css and javascript used to ma
 
 Just the code used to make the process work.  
 
+## Requirements or at least basic knowledge
+
+Working knowledge of D2L API Scopes, Postman for testing and setting up OAuth 2.0 Connections in D2L Admin Tools --> Manage Extensibility
+[Scopes Tables](https://docs.valence.desire2learn.com/http-scopestable.html)
+
 ## Widgets
 [Create Course HTML](https://github.com/justinbamberg/d2l-brightspace-custom-widgets/blob/main/create-course-add-user-zzstudent.html)
 <br>[Create Course JS](https://github.com/justinbamberg/d2l-brightspace-custom-widgets/blob/main/create-course-add-user-zzstudent.js)
